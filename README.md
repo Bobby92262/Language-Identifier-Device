@@ -19,6 +19,7 @@ The project aims to build an IoT device that identifies spoken language from ind
 - [x] RaspberryPi set up.
 - [ ] Virtual Enviroment set up with Whisper installed. (Desktop Version) Test WhisperAI.
 - [ ] Implement on the Pi after testing above is done.
+- [ ] Review if processing on the edge ?
 - [ ] Circuit construct for electret microphone.
 - [ ] Container to be set up once chosen entity (Docker/**Podman**).
 - [ ] Implement circuit with the Pi and test capabilities.
