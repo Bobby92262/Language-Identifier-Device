@@ -35,3 +35,6 @@ The project aims to build an IoT device that identifies spoken language from ind
 ### Project Methodology 
 - An Agile methodology and the Kipling methodology will be used for this project.
 - 2 week sprints for work with diary to be updated every sprint.
+
+### Side notes
+- OpenAI need 'FFmpeg' in the backgrpund to convert audio file types.
