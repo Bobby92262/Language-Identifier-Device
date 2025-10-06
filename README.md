@@ -17,7 +17,7 @@ The project aims to build an IoT device that identifies spoken language from ind
 ### Development Plan
 - [x] Research Iteration 1 Implementation
 - [x] RaspberryPi set up.
-- [ ] Virtual Enviroment set up with Whisper installed. (Desktop Version) Test WhisperAI.
+- [x] Virtual Enviroment set up with Whisper installed. (Desktop Version) Test WhisperAI.
 - [ ] Implement on the Pi after testing above is done.
 - [ ] Review if processing on the edge ?
 - [ ] Circuit construct for electret microphone.
@@ -26,7 +26,7 @@ The project aims to build an IoT device that identifies spoken language from ind
 - [ ] Review Pytorch implementation and GPU accelartion.
 
 ### Iteration Checklist
-- [ ] First Iteration - Desktop with USB Microphone and WhisperAI
+- [x] First Iteration - Desktop with USB Microphone and WhisperAI
 - [ ] Second Iteration - RaspPi with USB Microphone.
 - [ ] Thrid Iteration - Circuit constructed and implemented with Pi.
 - [ ] Container with image created.
@@ -37,4 +37,5 @@ The project aims to build an IoT device that identifies spoken language from ind
 - 2 week sprints for work with diary to be updated every sprint.
 
 ### Side notes
-- OpenAI need 'FFmpeg' in the backgrpund to convert audio file types.
+- [x] OpenAI need 'FFmpeg' in the backgrpund to convert audio file types.
+- [ ] Whsiper doesn't have gaelic in its dataset.
